@@ -1,0 +1,25 @@
+
+div{
+    width: 400px;
+    height: 400px;
+    background-image: url("/assignment7/img/css-assignment-5-8.png");
+    background-color: gold;
+    margin: 20px auto;
+}
+
+.assign-2-shape-1{
+    background-repeat: no-repeat;
+  
+}
+.assign-2-shape-2{
+  
+}
+
+.assign-2-shape-3{
+    
+}
+
+.assign-2-shape-4{
+     
+    /* default */
+}
