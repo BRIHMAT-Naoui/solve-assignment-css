@@ -1,0 +1,24 @@
+
+div{
+
+display: inline-block;
+background-color: gold;
+margin: 2px;
+
+}
+
+.shape-1{
+    border:solid red ;
+    outline: solid black;
+}
+.shape-2{
+    border:solid ;
+    border-color: blue green;
+    outline: solid black;
+}
+
+.shape-3{
+    border:dotted ;
+    border-color: red green blue  yellow ;
+    outline: solid black;
+}

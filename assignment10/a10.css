@@ -1,0 +1,26 @@
+
+div{
+    width: 400px;
+    height: 100px;
+    background-color: gold;
+    margin: auto;
+    padding: 10px;
+}
+
+.c1{
+ border-left:solid red 10px;
+ outline: 20px solid rgb(194, 181, 181) ;
+
+
+}
+
+.c2{
+    /* display: none; */
+    visibility: hidden;
+}
+
+.c3{
+    border-left:solid blue 10px;
+    outline: 20px solid rgb(194, 181, 181) ;
+   
+   }
